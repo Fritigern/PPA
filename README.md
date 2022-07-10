@@ -1,2 +1,2 @@
 # PPA
-Friti's own PPA foor testing
+Friti's own PPA for testing
