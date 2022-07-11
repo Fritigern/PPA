@@ -1,0 +1,40 @@
+Package: ferdium
+Version: 6.0.0-nightly.88
+Architecture: amd64
+Maintainer: Ferdium Contributors <hello@ferdium.org>
+Installed-Size: 337224
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
+Recommends: libappindicator3-1
+Filename: ./Ferdium-linux-6.0.0-nightly.88-amd64.deb
+Size: 79982766
+MD5sum: 6d6ba922376283ecd9ce24f6a5dd0e10
+SHA1: abe6fac0db087267ee9001b655570975a49262d1
+SHA256: 1f5cfd0a49155c71106f5d4b01404a89fc78880215125e54ce9250978aa2c353
+Section: default
+Priority: optional
+Homepage: https://github.com/ferdium/ferdium-app
+Description: Messaging app for WhatsApp, Slack, Telegram, Gmail, Hangouts and many many more.
+  Ferdium is your messaging app / former heir to the throne of Austria-Hungary and combines chat & messaging services into one application. Ferdium currently supports Slack, WhatsApp, Gmail, Facebook Messenger, Telegram, Google Hangouts, GroupMe, Skype and many more. You can download Ferdium for free for Mac, Windows, and Linux. For enabling webcam access you need to connect “camera” plug to snap, and for microphone with PulseAudio - “audio-record” plug. This can be done in Snap GUI or via command: `snap connect ferdium:camera; snap connect ferdium:audio-record`.
+License: Apache-2.0
+Vendor: Ferdium Contributors <hello@ferdium.org>
+
+Package: ferdium
+Version: 6.0.0-nightly.93
+Architecture: amd64
+Maintainer: Ferdium Contributors <hello@ferdium.org>
+Installed-Size: 339328
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
+Recommends: libappindicator3-1
+Filename: ./Ferdium-linux-6.0.0-nightly.93-amd64.deb
+Size: 80128934
+MD5sum: dda9c909073fce6776629f7d561a83e1
+SHA1: 0e15f271eb622f32371e533944d2b0298cc167c8
+SHA256: f456afe5f704f3eb49c6124e05b5ffeaf8d46fc0afe0f77f680c9e884620a3d1
+Section: default
+Priority: optional
+Homepage: https://github.com/ferdium/ferdium-app
+Description: Messaging app for WhatsApp, Slack, Telegram, Gmail, Hangouts and many many more.
+  Ferdium is your messaging app / former heir to the throne of Austria-Hungary and combines chat & messaging services into one application. Ferdium currently supports Slack, WhatsApp, Gmail, Facebook Messenger, Telegram, Google Hangouts, GroupMe, Skype and many more. You can download Ferdium for free for Mac, Windows, and Linux. For enabling webcam access you need to connect “camera” plug to snap, and for microphone with PulseAudio - “audio-record” plug. This can be done in Snap GUI or via command: `snap connect ferdium:camera; snap connect ferdium:audio-record`.
+License: Apache-2.0
+Vendor: Ferdium Contributors <hello@ferdium.org>
+
